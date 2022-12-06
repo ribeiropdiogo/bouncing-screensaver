@@ -1,7 +1,11 @@
 # Bouncing Screensaver
 
 ![GitHub](https://img.shields.io/github/license/ribeiropdiogo/bouncing-screensaver)
-![GitHub all releases](https://img.shields.io/github/downloads/ribeiropdiogo/bouncing-screensaver/total?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/ribeiropdiogo/bouncing-screensaver/total)
+![MacOS Version](https://img.shields.io/badge/MacOS-v12_or_above-blue)
+![Xcode Version](https://img.shields.io/badge/Xcode-v14.1_or_above-blue)
+![x86 Compatibility](https://img.shields.io/badge/x86-working-green)
+![Apple Silicon Compatibility](https://img.shields.io/badge/Apple%20Silicon-not%20tested-red)
 
 This repository contains a collection of custom bouncing screensaver built for MacOS. This project started as a simple effort to customize MacOS but evolved into this repository so that anyone can use any of the published screensaver in their own machine. This repository contains all screensavers built to date, but feel free to suggest new ones! Additionally, the Xcode project used to generate the screensavers is also present in the repository. So, if you feel brave, try adding new ones yourself.
 
