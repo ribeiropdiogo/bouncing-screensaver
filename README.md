@@ -1,7 +1,7 @@
 # Bouncing Screensaver
 
 ![GitHub](https://img.shields.io/github/license/ribeiropdiogo/bouncing-screensaver)
-![GitHub all releases](https://img.shields.io/github/downloads/ribeiropdiogo/bouncing-screensaver/total)
+![GitHub latest release](https://img.shields.io/github/v/tag/ribeiropdiogo/bouncing-screensaver)
 ![MacOS Version](https://img.shields.io/badge/MacOS-v12_or_above-blue)
 ![Xcode Version](https://img.shields.io/badge/Xcode-v14.1_or_above-blue)
 ![x86 Compatibility](https://img.shields.io/badge/x86-working-green)
