@@ -23,7 +23,7 @@ To install any of the screensavers clone this repository or download it using yo
 
 To create new screensavers using the Xcode project in this repository, you can follow one of two options: either open the `bouncing screensaver` folder and double-click the `bouncing screensaver.xcodeproj`, or open Xcode, select `Open a project or file`, and then select the `bouncing screensaver` folder or `bouncing screensaver.xcodeproj` file. Either way works perfectly and it is up to your preference. Just make sure to have Xcode installed on your machine and updated to a relatively new version (14.1 or newer).
 
-## Community
+## Community 🌍
 
 Have a feature request? Open an [issue](https://github.com/ribeiropdiogo/bouncing-screensaver/issues/new). Make sure to describe which screensaver you would like and I'll try to include it as soon as possible.
 
