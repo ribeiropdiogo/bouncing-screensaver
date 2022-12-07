@@ -10,6 +10,8 @@
 		374BB02E293A7721003014CC /* bouncing_screensaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = 374BB02D293A7721003014CC /* bouncing_screensaverView.h */; };
 		374BB030293A7721003014CC /* bouncing_screensaverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 374BB02F293A7721003014CC /* bouncing_screensaverView.m */; };
 		374BB037293A77C1003014CC /* troll.png in Resources */ = {isa = PBXBuildFile; fileRef = 374BB036293A77C1003014CC /* troll.png */; };
+		374E9FC029411FB400C966B1 /* ronaldo.png in Resources */ = {isa = PBXBuildFile; fileRef = 374E9FBF29411FB400C966B1 /* ronaldo.png */; };
+		374E9FC42941213200C966B1 /* messi.png in Resources */ = {isa = PBXBuildFile; fileRef = 374E9FC32941213200C966B1 /* messi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +19,8 @@
 		374BB02D293A7721003014CC /* bouncing_screensaverView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bouncing_screensaverView.h; sourceTree = "<group>"; };
 		374BB02F293A7721003014CC /* bouncing_screensaverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bouncing_screensaverView.m; sourceTree = "<group>"; };
 		374BB036293A77C1003014CC /* troll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = troll.png; sourceTree = "<group>"; };
+		374E9FBF29411FB400C966B1 /* ronaldo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ronaldo.png; sourceTree = "<group>"; };
+		374E9FC32941213200C966B1 /* messi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = messi.png; path = ../../Downloads/messi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +37,8 @@
 		374BB020293A7721003014CC = {
 			isa = PBXGroup;
 			children = (
+				374E9FC32941213200C966B1 /* messi.png */,
+				374E9FBF29411FB400C966B1 /* ronaldo.png */,
 				374BB036293A77C1003014CC /* troll.png */,
 				374BB02C293A7721003014CC /* bouncing screensaver */,
 				374BB02B293A7721003014CC /* Products */,
@@ -102,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 374BB024293A7721003014CC /* Build configuration list for PBXProject "bouncing screensaver" */;
+			buildConfigurationList = 374BB024293A7721003014CC /* Build configuration list for PBXProject "ronaldo screensaver" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				374E9FC42941213200C966B1 /* messi.png in Resources */,
 				374BB037293A77C1003014CC /* troll.png in Resources */,
+				374E9FC029411FB400C966B1 /* ronaldo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +299,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		374BB024293A7721003014CC /* Build configuration list for PBXProject "bouncing screensaver" */ = {
+		374BB024293A7721003014CC /* Build configuration list for PBXProject "ronaldo screensaver" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				374BB031293A7721003014CC /* Debug */,

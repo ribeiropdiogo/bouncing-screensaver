@@ -14,14 +14,15 @@
     self = [super initWithFrame:frame isPreview:isPreview];
     if (self) {
         
-        const float fps = 30.0f;
+        const float fps = 60.0f;
         [self setAnimationTimeInterval:1/fps];
 
         
         const int speed = WIDTH / (10.0 * fps);
        
-        self.logoWidth = 200;
-        self.logoHeight = 145;
+        // When changing the logo, the width and height of the image may need to be adjusted
+        self.logoWidth = 208;
+        self.logoHeight = 173;
         self.x = WIDTH / 2.0 - self.logoWidth / 2.0;
         self.y = HEIGHT / 2.0 - self.logoHeight / 2.0;
         self.dirtyRect = NSMakeRect(self.x, self.y, self.logoWidth, self.logoHeight);
